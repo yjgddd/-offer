@@ -3,7 +3,7 @@
 # 题目描述
 输入一个链表，反转链表后，输出新链表的表头。
 # 解题思路
-典型题目，可以用递归和迭代两种方法
+典型题目，可以用递归和迭代两种方法,见代码
 # C++代码
 ## 迭代AC代码
 ```
@@ -34,6 +34,25 @@ public:
 ```
 ## 递归AC代码
 ```
+/*
+struct ListNode {
+	int val;
+	struct ListNode *next;
+	ListNode(int x) :
+			val(x), next(NULL) {
+	}
+};*/
+class Solution {
+public:
+    ListNode* ReverseList(ListNode* pHead) {
+        ListNode* newHead;
+        if(pHead==NULL||pHead->next==NULL) return pHead;
+        else newHead=ReverseList(pHead->next);
+        pHead->next->next=pHead;
+        pHead->next=NULL;
+        return newHead;
+    }
+};
 ```
 
 ## 类似题目

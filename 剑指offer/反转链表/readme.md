@@ -32,7 +32,7 @@ public:
     }
 };
 ```
-## 递归AC代码
+# 递归AC代码
 ```
 /*
 struct ListNode {

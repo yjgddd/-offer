@@ -23,6 +23,12 @@ public:
     //                     otherwise false
     bool duplicate(int numbers[], int length, int* duplication) {
         int i;
+        if(numbers==NULL||length<=0) return false;
+        for(i=0;i<length;i++)
+        {
+            if(numbers[i]<0||numbers[i]>length-1)
+            return false;
+        }
         for(i=0;i<length;i++)
         {
             while(numbers[i]!=i) 

@@ -12,7 +12,7 @@
 和位置number[i]都出现了。如果不相等，交换numbers[i]和number[number[i]]位置上的数字，使得number[i]放在属于它的位置。不断比较、交换，直到找到重复数字。
 
 # C++代码
-
+```
 class Solution {
 public:
     // Parameters:
@@ -44,3 +44,4 @@ public:
         return false;
     }
 };
+```

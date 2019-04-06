@@ -2,8 +2,8 @@
 - 博客题解：[我的剑指offer题解](https://yangjie.gq/categories/%E5%89%91%E6%8C%87offer/)
 - github题解（按照牛客网顺序，可能有出入）：
 
-&emsp;ID &emsp;| &emsp;&emsp;Title&emsp;|&emsp;Solution&emsp;|&emsp;C++&emsp;|&emsp;Tags&emsp;
----|---|---|---|---
+ID | Title|Solution|C++|Tags
+:---:|:---:|:---:|:---:|:---:
 01 |[二维数组中的查找](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [readme.md](https://github.com/yjgddd/Coding-interviews/blob/master/%E5%89%91%E6%8C%87offer/%E6%95%B0%E7%BB%84%E7%9A%84%E6%9F%A5%E6%89%BE/readme.md)|[solution.cpp](https://github.com/yjgddd/Coding-interviews/blob/master/%E5%89%91%E6%8C%87offer/%E6%95%B0%E7%BB%84%E7%9A%84%E6%9F%A5%E6%89%BE/solution.cpp)|数组
 02 |[替换空格](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&tqId=11155&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [readme.md](https://github.com/yjgddd/Coding-interviews/blob/master/%E5%89%91%E6%8C%87offer/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC/readme.md)|[solution.cpp](https://github.com/yjgddd/Coding-interviews/blob/master/%E5%89%91%E6%8C%87offer/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC/solution.cpp)|字符串
 03|[从尾到头打印链表](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&tqId=11156&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [readme.md](https://github.com/yjgddd/Coding-interviews/blob/master/%E5%89%91%E6%8C%87offer/%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8/readme.md)|[solution.cpp](https://github.com/yjgddd/Coding-interviews/blob/master/%E5%89%91%E6%8C%87offer/%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8/solution.cpp)|链表

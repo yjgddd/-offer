@@ -1,6 +1,6 @@
 
 - 博客题解：[我的剑指offer题解](https://yangjie.gq/categories/%E5%89%91%E6%8C%87offer/)
-- github题解（按照牛客网顺序，可能有出入）：
+- Github题解（按照牛客网顺序，可能有出入）：
 
 &emsp;ID&emsp; | &emsp;&emsp;Title&emsp;&emsp;|&emsp;&emsp;Solution&emsp;&emsp;|&emsp;&emsp;C++&emsp;&emsp;|&emsp;&emsp;Tags&emsp;&emsp;
 :---:|:---:|:---:|:---:|:---:

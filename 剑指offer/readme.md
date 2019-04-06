@@ -2,7 +2,7 @@
 - 博客题解：[我的剑指offer题解](https://yangjie.gq/categories/%E5%89%91%E6%8C%87offer/)
 - github题解（按照牛客网顺序，可能有出入）：
 
-<center>ID | Title|Solution|C++|Tags</center>
+ID | Title|Solution|C++|Tags
 :---:|:---:|:---:|:---:|:---:
 01 |[二维数组中的查找](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [readme.md](https://github.com/yjgddd/Coding-interviews/blob/master/%E5%89%91%E6%8C%87offer/%E6%95%B0%E7%BB%84%E7%9A%84%E6%9F%A5%E6%89%BE/readme.md)|[solution.cpp](https://github.com/yjgddd/Coding-interviews/blob/master/%E5%89%91%E6%8C%87offer/%E6%95%B0%E7%BB%84%E7%9A%84%E6%9F%A5%E6%89%BE/solution.cpp)|数组
 02 |[替换空格](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&tqId=11155&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [readme.md](https://github.com/yjgddd/Coding-interviews/blob/master/%E5%89%91%E6%8C%87offer/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC/readme.md)|[solution.cpp](https://github.com/yjgddd/Coding-interviews/blob/master/%E5%89%91%E6%8C%87offer/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC/solution.cpp)|字符串

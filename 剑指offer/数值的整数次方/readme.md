@@ -28,7 +28,7 @@ public:
 class Solution {
 public:
     double Power(double base, int exponent) {
-        if(exponent==0) return 1;//判断底数为1
+        if(exponent==0) return 1;//判断指数为0
         if(exponent==1) return base;//指数为1返回base
         if(exponent==-1) return 1/base;//判断指数为负
         double result=Power(base,exponent>>1);//递归

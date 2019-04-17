@@ -12,7 +12,29 @@ public:
     }
 };
 ```
-## 思路二：迭代
+## 思路二：递归和位运算
+面试中显然不能写思路一那个解法。可以想到一种解法是O(n)的迭代，加上判断底数为0，指数为负数等特殊情况。
+但是还有更高效的解法。假设求2^32,可以转换为求(2^16) * (2^16),2^16=(2^8) * (2^8),....也就是说，可以用如下公式：
+当n为偶数时，a^n=(a^(n/2)) * (a^(n/2))
+当n为奇数时，a^n=a^((n-1)/2) * a^((n-1)/2) * a
+用右移运算符代替除以2，用位与运算符代替求余运算来判断一个数的奇偶性，提高效率。
+
+# C++代码
+```
+class Solution {
+public:
+    double Power(double base, int exponent) {
+        if(exponent==0) return 1;//判断底数为1
+        if(exponent==1) return base;//指数为1返回base
+        if(exponent==-1) return 1/base;//判断指数为负
+        double result=Power(base,exponent>>1);//递归
+        result*=result;
+        if(exponent&0x1==1)//如果是奇数，多乘以一个base
+            result*=base;
+        return result;
+    }
+};
+```
 
 
-## 思路三：利用二进制和位运算
+

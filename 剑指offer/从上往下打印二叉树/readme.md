@@ -9,7 +9,7 @@
    
 &emsp; &emsp;6&emsp; &emsp; 10
  
-&emsp;5 7 &emsp; 9 11
+&emsp;5 &emsp; 7 &emsp; 9  &emsp;11
 
 比如如上二叉树，按照层次打印的过程
 

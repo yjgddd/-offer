@@ -6,7 +6,7 @@
 如果右上角的值大于该整数，那么该列都大于此整数，去掉该列，如果右上角的值小于该整数，那么该行都小于此整数，如果相等，则返回true，不断循环缩小范围。
 # C++代码
 
-```
+```cpp
 class Solution {
 public:
     bool Find(int target, vector<vector<int> > array) {

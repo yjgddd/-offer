@@ -23,7 +23,7 @@
 19 |[]()| []()|[]()
 21 |[]()| []()|[]()
 22 |[]()| []()|[]()
-23 |[]()| []()|[]()
+23 |[从上到下打印二叉树](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tqId=11175&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [readme.md](https://github.com/yjgddd/Coding-interviews/blob/master/%E5%89%91%E6%8C%87offer/%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/readme.md)|[solution.cpp](https://github.com/yjgddd/Coding-interviews/blob/master/%E5%89%91%E6%8C%87offer/%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/solution.cpp)|举例让抽象具体化
 24 |[]()| []()|[]()
 25 |[]()| []()|[]()
 27 |[]()| []()|[]()
